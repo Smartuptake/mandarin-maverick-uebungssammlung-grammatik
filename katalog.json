@@ -1,0 +1,1091 @@
+{
+  "titel": "Mandarin Maverick Übungssammlung · Grammatik",
+  "kurztitel": "Übungssammlung · Grammatik-Nachschlagewerk",
+  "ebene1": "HSK-Stufe",
+  "ebene2": "eine Grammatikstruktur",
+  "hinweisStart": "Die Übungen sind wie das Grammatik-Nachschlagewerk nach HSK-Stufen geordnet. Wähle eine Stufe.",
+  "bereiche": [
+    {
+      "id": "hsk-1",
+      "titel": "HSK 1",
+      "untertitel": "Grammatikstrukturen ab HSK-Stufe 1",
+      "gruppen": [
+        {
+          "id": "001-die-personalpronomen-und-die-endung-men",
+          "nr": 1,
+          "sortierung": 1,
+          "titel": "Die Personalpronomen und die Endung „[[men]]“",
+          "themen": "HSK 1 · 2 · 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/1",
+          "textmarke": "_Toc_MM_002",
+          "koffer": []
+        },
+        {
+          "id": "002-die-zahlen-im-chinesischen",
+          "nr": 2,
+          "sortierung": 2,
+          "titel": "Die Zahlen im Chinesischen",
+          "themen": "HSK 1 · 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/2",
+          "textmarke": "_Toc_MM_003",
+          "koffer": []
+        },
+        {
+          "id": "003-entscheidungsfrage-mit-ma-die-fragepartikel-ma",
+          "nr": 3,
+          "sortierung": 3,
+          "titel": "Entscheidungsfrage mit „[[ma]]“ / Die Fragepartikel „[[ma]]“",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/3",
+          "textmarke": "_Toc_MM_004",
+          "koffer": []
+        },
+        {
+          "id": "004-satzstruktur-im-chinesischen",
+          "nr": 4,
+          "sortierung": 4,
+          "titel": "Satzstruktur im Chinesischen",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/4",
+          "textmarke": "_Toc_MM_005",
+          "koffer": []
+        },
+        {
+          "id": "005-elliptische-frage-mit-ne-die-fragepartikel",
+          "nr": 5,
+          "sortierung": 5,
+          "titel": "Elliptische Frage mit „[[ne]]“ / Die Fragepartikel „[[ne]]“",
+          "themen": "HSK 1 · 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/5",
+          "textmarke": "_Toc_MM_006",
+          "koffer": []
+        },
+        {
+          "id": "006-das-adverb-ye",
+          "nr": 6,
+          "sortierung": 6,
+          "titel": "Das Adverb „[[yě]]“",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/6",
+          "textmarke": "_Toc_MM_007",
+          "koffer": []
+        },
+        {
+          "id": "007-die-verneinung-mit-der-partikel-dem",
+          "nr": 7,
+          "sortierung": 7,
+          "titel": "Die Verneinung mit der Partikel/dem Adverb „[[bù]]“ oder mit „[[méi]]“",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/7",
+          "textmarke": "_Toc_MM_008",
+          "koffer": []
+        },
+        {
+          "id": "008-das-adverb-dou",
+          "nr": 8,
+          "sortierung": 8,
+          "titel": "Das Adverb „[[dōu]]“",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/8",
+          "textmarke": "_Toc_MM_009",
+          "koffer": []
+        },
+        {
+          "id": "009-die-wortkombination-zhu-zai",
+          "nr": 9,
+          "sortierung": 9,
+          "titel": "Die Wortkombination „[[zhù zài]]“",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/9",
+          "textmarke": "_Toc_MM_010",
+          "koffer": []
+        },
+        {
+          "id": "010-an-einem-ort-sein-und-dort",
+          "nr": 10,
+          "sortierung": 10,
+          "titel": "An einem Ort sein und dort etwas tun",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/10",
+          "textmarke": "_Toc_MM_011",
+          "koffer": []
+        },
+        {
+          "id": "011-die-wichtigsten-praepositionen-im-ueberblick",
+          "nr": 11,
+          "sortierung": 11,
+          "titel": "Die wichtigsten Präpositionen im Überblick",
+          "themen": "HSK 1 · 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/11",
+          "textmarke": "_Toc_MM_013",
+          "koffer": []
+        },
+        {
+          "id": "012-die-struktur-cong-dao-von-bis",
+          "nr": 12,
+          "sortierung": 12,
+          "titel": "Die Struktur „[[cóng ... dào ...]]“ – von ... bis ...",
+          "themen": "HSK 1 · 2 · 3 · 5",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/12",
+          "textmarke": "_Toc_MM_014",
+          "koffer": []
+        },
+        {
+          "id": "013-die-uhrzeit",
+          "nr": 13,
+          "sortierung": 13,
+          "titel": "Die Uhrzeit",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/13",
+          "textmarke": "_Toc_MM_018",
+          "koffer": []
+        },
+        {
+          "id": "014-datum-wochentage-und-jahreszahlen",
+          "nr": 14,
+          "sortierung": 14,
+          "titel": "Datum, Wochentage und Jahreszahlen",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/14",
+          "textmarke": "_Toc_MM_019",
+          "koffer": []
+        },
+        {
+          "id": "015-zeit-punkt-angaben",
+          "nr": 15,
+          "sortierung": 15,
+          "titel": "Zeit(punkt)angaben",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/15",
+          "textmarke": "_Toc_MM_020",
+          "koffer": []
+        },
+        {
+          "id": "016-fragesaetze-mit-interrogativpronomen-und-antworten",
+          "nr": 16,
+          "sortierung": 16,
+          "titel": "Fragesätze mit: Interrogativpronomen... und Antworten",
+          "themen": "HSK 1 · 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/16",
+          "textmarke": "_Toc_MM_021",
+          "koffer": []
+        },
+        {
+          "id": "017-das-fragewort-duo-nach-alter-groesse",
+          "nr": 17,
+          "sortierung": 17,
+          "titel": "Das Fragewort „[[duō]]“ – nach Alter, Größe und Entfernung fragen",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/17",
+          "textmarke": "_Toc_MM_022",
+          "koffer": []
+        },
+        {
+          "id": "018-die-demonstrativpronomen-zhe-und-na",
+          "nr": 18,
+          "sortierung": 18,
+          "titel": "Die Demonstrativpronomen „[[zhè]]“ und „[[nà]]“",
+          "themen": "HSK 1 · 2 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/18",
+          "textmarke": "_Toc_MM_023",
+          "koffer": []
+        },
+        {
+          "id": "019-das-woertchen-you",
+          "nr": 19,
+          "sortierung": 19,
+          "titel": "Das Wörtchen „[[yǒu]]“",
+          "themen": "HSK 1 · 2 · 5",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/19",
+          "textmarke": "_Toc_MM_024",
+          "koffer": []
+        },
+        {
+          "id": "020-existenzsaetze-ort-you-shi-zai",
+          "nr": 20,
+          "sortierung": 20,
+          "titel": "Existenzsätze: „Ort + yǒu/shì/zài“",
+          "themen": "HSK 1 · 2 · 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/20",
+          "textmarke": "_Toc_MM_025",
+          "koffer": []
+        },
+        {
+          "id": "021-die-partikel-de",
+          "nr": 21,
+          "sortierung": 21,
+          "titel": "Die Partikel „[[de]]“",
+          "themen": "HSK 1 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/21",
+          "textmarke": "_Toc_MM_028",
+          "koffer": []
+        },
+        {
+          "id": "022-die-drei-de-de-de-de",
+          "nr": 22,
+          "sortierung": 22,
+          "titel": "Die drei „[[de]]“: de (的) – de (地) – de (得)",
+          "themen": "HSK 1 · 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/22",
+          "textmarke": "_Toc_MM_029",
+          "koffer": []
+        },
+        {
+          "id": "023-zaehleinheitswoerter-zew",
+          "nr": 23,
+          "sortierung": 23,
+          "titel": "Zähleinheitswörter (ZEW)",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/23",
+          "textmarke": "_Toc_MM_030",
+          "koffer": []
+        },
+        {
+          "id": "024-geld-und-preise",
+          "nr": 24,
+          "sortierung": 24,
+          "titel": "Geld und Preise",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/24",
+          "textmarke": "_Toc_MM_031",
+          "koffer": []
+        },
+        {
+          "id": "025-moegen-nicht-moegen",
+          "nr": 25,
+          "sortierung": 25,
+          "titel": "mögen/nicht mögen",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/25",
+          "textmarke": "_Toc_MM_032",
+          "koffer": []
+        },
+        {
+          "id": "026-die-gradadverbien-hen-tai-feichang-bijiao",
+          "nr": 26,
+          "sortierung": 26,
+          "titel": "Die Gradadverbien „[[hěn, tài, fēicháng, bǐjiào, gèng, zuì]]“",
+          "themen": "HSK 1 · 2 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/26",
+          "textmarke": "_Toc_MM_033",
+          "koffer": []
+        },
+        {
+          "id": "027-dinge-personen-tiere-mit-adjektiven-naeher",
+          "nr": 27,
+          "sortierung": 27,
+          "titel": "Dinge/Personen/Tiere mit Adjektiven näher beschreiben",
+          "themen": "HSK 1 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/27",
+          "textmarke": "_Toc_MM_034",
+          "koffer": []
+        },
+        {
+          "id": "028-die-partikel-le-in-der-struktur",
+          "nr": 28,
+          "sortierung": 28,
+          "titel": "Die Partikel „[[le]]“ in der Struktur: „tài + Adjektiv + le!“ / „[[le]]“ als Satzschlusspartikel mit dem Wörtchen „[[tài]]“ und einem Adjektivverb",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/28",
+          "textmarke": "_Toc_MM_035",
+          "verweise": [
+            {
+              "titel": "[[le]] {{了}} und [[guò]] {{过}}",
+              "url": "https://smartuptake.github.io/mandarin-maverick-uebungssammlung-kursverlaeufe/jg-11/kv-006/01-le-guo/",
+              "beschreibung": "Übungskoffer aus dem Kursverlauf-006 (Jahrgangsstufe 11)",
+              "anzahl": 15,
+              "dauer": "ca. 45–60 Minuten",
+              "quelle": "Übungssammlung Kursverläufe"
+            }
+          ],
+          "koffer": []
+        },
+        {
+          "id": "029-das-woertchen-he-und-seine-bedeutung",
+          "nr": 29,
+          "sortierung": 29,
+          "titel": "Das Wörtchen „[[hé]]“ und seine Bedeutung",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/29",
+          "textmarke": "_Toc_MM_039",
+          "koffer": []
+        },
+        {
+          "id": "030-satzverknuepfungen-gemaess-der-bedeutung-und-ausserdem",
+          "nr": 30,
+          "sortierung": 30,
+          "titel": "Satzverknüpfungen gemäß der Bedeutung „und, außerdem“ (hái, yě, „Komma/dòuhào“, érqiě, érqiě hái)",
+          "themen": "HSK 1 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/30",
+          "textmarke": "_Toc_MM_040",
+          "koffer": []
+        },
+        {
+          "id": "031-huozhe-oder-haishi",
+          "nr": 31,
+          "sortierung": 31,
+          "titel": "huòzhě oder háishì",
+          "themen": "HSK 1 · 2 · 3 · 4 · 5 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/31",
+          "textmarke": "_Toc_MM_043",
+          "koffer": []
+        },
+        {
+          "id": "032-bitten-aufforderungen-und-verbote-qing-bie",
+          "nr": 32,
+          "sortierung": 32,
+          "titel": "Bitten, Aufforderungen und Verbote: „[[qǐng]]“, „[[bié]]“, „[[bùyào]]“",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/32",
+          "textmarke": "_Toc_MM_044",
+          "koffer": []
+        },
+        {
+          "id": "033-die-satzschlusspartikel-ba",
+          "nr": 33,
+          "sortierung": 33,
+          "titel": "Die Satzschlusspartikel „[[ba]]“",
+          "themen": "HSK 1 · 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/33",
+          "textmarke": "_Toc_MM_045",
+          "koffer": []
+        },
+        {
+          "id": "034-modalverben",
+          "nr": 34,
+          "sortierung": 34,
+          "titel": "Modalverben",
+          "themen": "HSK 1 · 2 · 3 · 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/34",
+          "textmarke": "_Toc_MM_047",
+          "koffer": []
+        },
+        {
+          "id": "035-die-beiden-begriffe-yi-xie-und",
+          "nr": 35,
+          "sortierung": 35,
+          "titel": "Die beiden Begriffe „[[yī xiē]]“ und „[[jǐ ge]]“",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/35",
+          "textmarke": "_Toc_MM_049",
+          "koffer": []
+        },
+        {
+          "id": "036-die-struktur-um-auszudruecken-dass-zwei",
+          "nr": 36,
+          "sortierung": 36,
+          "titel": "Die Struktur um auszudrücken, dass zwei Handlungen eines Subjektes gleichzeitig vollzogen werden",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/36",
+          "textmarke": "_Toc_MM_052",
+          "koffer": []
+        },
+        {
+          "id": "037-die-partikel-le",
+          "nr": 37,
+          "sortierung": 37,
+          "titel": "Die Partikel „[[le]]“",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/37",
+          "textmarke": "_Toc_MM_061",
+          "verweise": [
+            {
+              "titel": "[[le]] {{了}} und [[guò]] {{过}}",
+              "url": "https://smartuptake.github.io/mandarin-maverick-uebungssammlung-kursverlaeufe/jg-11/kv-006/01-le-guo/",
+              "beschreibung": "Übungskoffer aus dem Kursverlauf-006 (Jahrgangsstufe 11)",
+              "anzahl": 15,
+              "dauer": "ca. 45–60 Minuten",
+              "quelle": "Übungssammlung Kursverläufe"
+            }
+          ],
+          "koffer": []
+        },
+        {
+          "id": "038-verwendung-von-lage-und-richtungswoertern-himmelsrichtungswoertern",
+          "nr": 38,
+          "sortierung": 38,
+          "titel": "Verwendung von Lage- und Richtungswörtern/Himmelsrichtungswörtern",
+          "themen": "HSK 1 · 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/38",
+          "textmarke": "_Toc_MM_066",
+          "koffer": []
+        },
+        {
+          "id": "039-ausdruecken-dass-sich-eine-stadt-im",
+          "nr": 39,
+          "sortierung": 39,
+          "titel": "Ausdrücken, dass sich eine Stadt im Norden, Süden, Osten, Westen eines Landes befindet",
+          "themen": "HSK 1",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/39",
+          "textmarke": "_Toc_MM_067",
+          "koffer": []
+        },
+        {
+          "id": "040-der-durative-aspekt-mit-zai-zhengzai",
+          "nr": 40,
+          "sortierung": 40,
+          "titel": "Der durative Aspekt mit zài, zhèngzài, und zhe",
+          "themen": "HSK 1 · 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/40",
+          "textmarke": "_Toc_MM_072",
+          "koffer": []
+        },
+        {
+          "id": "041-vergleichen-iii-mit-der-folgenden-konstruktion",
+          "nr": 41,
+          "sortierung": 41,
+          "titel": "Vergleichen III: Mit der folgenden Konstruktion kannst du ausdrücken, dass ein Nomen/eine Nominalphrase in Bezug auf eine Eigenschaft mehr hat/ist als ein anderes Nomen/eine andere Nominalphrase (Sie ist größer als er.)",
+          "themen": "HSK 1 · 2 · 3 · 4 · 5",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/41",
+          "textmarke": "_Toc_MM_080",
+          "koffer": []
+        },
+        {
+          "id": "042-die-woertchen-zai-you-und-hai",
+          "nr": 42,
+          "sortierung": 42,
+          "titel": "Die Wörtchen „[[zài]]“, „[[yòu]]“ und „[[hái]]“ – dreimal „[[wieder/noch]]“",
+          "themen": "HSK 1 · 2 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/42",
+          "textmarke": "_Toc_MM_083",
+          "koffer": []
+        }
+      ]
+    },
+    {
+      "id": "hsk-2",
+      "titel": "HSK 2",
+      "untertitel": "Grammatikstrukturen ab HSK-Stufe 2",
+      "gruppen": [
+        {
+          "id": "043-an-einen-zu-einem-ort-gehen",
+          "nr": 43,
+          "sortierung": 43,
+          "titel": "An einen/Zu einem Ort gehen",
+          "themen": "HSK 2 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/43",
+          "textmarke": "_Toc_MM_012",
+          "koffer": []
+        },
+        {
+          "id": "044-angabe-der-zukunft",
+          "nr": 44,
+          "sortierung": 44,
+          "titel": "Angabe der Zukunft",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/44",
+          "textmarke": "_Toc_MM_015",
+          "koffer": []
+        },
+        {
+          "id": "045-die-strukturen-kuai-yao-le-und",
+          "nr": 45,
+          "sortierung": 45,
+          "titel": "Die Strukturen „[[kuài (yào) ... le]]“ und „[[jiù yào ... le]]“ – die unmittelbare Zukunft",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/45",
+          "textmarke": "_Toc_MM_016",
+          "koffer": []
+        },
+        {
+          "id": "046-qu-vs-lai",
+          "nr": 46,
+          "sortierung": 46,
+          "titel": "qù vs. lái",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/46",
+          "textmarke": "_Toc_MM_017",
+          "koffer": []
+        },
+        {
+          "id": "047-verbverdopplung",
+          "nr": 47,
+          "sortierung": 47,
+          "titel": "Verbverdopplung",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/47",
+          "textmarke": "_Toc_MM_026",
+          "koffer": []
+        },
+        {
+          "id": "048-die-verdopplung-von-adjektivverben",
+          "nr": 48,
+          "sortierung": 48,
+          "titel": "Die Verdopplung von Adjektivverben",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/48",
+          "textmarke": "_Toc_MM_027",
+          "koffer": []
+        },
+        {
+          "id": "049-so-aussehen-als-ob",
+          "nr": 49,
+          "sortierung": 49,
+          "titel": "So aussehen als ob...",
+          "themen": "HSK 2 · 3 · 4 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/49",
+          "textmarke": "_Toc_MM_036",
+          "koffer": []
+        },
+        {
+          "id": "050-die-struktur-yue-lai-yue-adjektiv",
+          "nr": 50,
+          "sortierung": 50,
+          "titel": "Die Struktur: „yuè lái yuè + Adjektiv“",
+          "themen": "HSK 2 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/50",
+          "textmarke": "_Toc_MM_037",
+          "koffer": []
+        },
+        {
+          "id": "051-das-woertchen-aber-im-chinesischen",
+          "nr": 51,
+          "sortierung": 51,
+          "titel": "Das Wörtchen „[[aber]]“ im Chinesischen",
+          "themen": "HSK 2 · 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/51",
+          "textmarke": "_Toc_MM_038",
+          "koffer": []
+        },
+        {
+          "id": "052-die-strukturen-you-you-und-ji",
+          "nr": 52,
+          "sortierung": 52,
+          "titel": "Die Strukturen „[[yòu ... yòu ...]]“ und „[[jì ... yòu ...]]“",
+          "themen": "HSK 2 · 3 · 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/52",
+          "textmarke": "_Toc_MM_041",
+          "koffer": []
+        },
+        {
+          "id": "053-saetze-mit-zwei-objekten-gei-song",
+          "nr": 53,
+          "sortierung": 53,
+          "titel": "Sätze mit zwei Objekten („[[gěi]]“, „[[sòng]]“, „[[jiāo]]“, „[[wèn]]“)",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/53",
+          "textmarke": "_Toc_MM_046",
+          "koffer": []
+        },
+        {
+          "id": "054-s-gei-mouren-da-yi-ge",
+          "nr": 54,
+          "sortierung": 54,
+          "titel": "S + gěi + mǒurén + dǎ (yī ge) diànhuà / S + gěi + mǒurén + mǎi + Nomen / usw.",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/54",
+          "textmarke": "_Toc_MM_048",
+          "koffer": []
+        },
+        {
+          "id": "055-strukturen-um-zwei-bzw-mehrere-handlungsablaeufe",
+          "nr": 55,
+          "sortierung": 55,
+          "titel": "Strukturen um zwei bzw. mehrere Handlungsabläufe, die aufeinanderfolgen, zu beschreiben, z. B.: Zuerst habe ich das gemacht, danach habe ich dies getan, dann habe ich jenes getan, am Schluss habe ich das gemacht.",
+          "themen": "HSK 2 · 3 · 5",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/55",
+          "textmarke": "_Toc_MM_050",
+          "koffer": []
+        },
+        {
+          "id": "056-die-struktur-satzteil1-de-shihou-satzteil2",
+          "nr": 56,
+          "sortierung": 56,
+          "titel": "Die Struktur: „Satzteil1 + de shíhòu + Satzteil2“",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/56",
+          "textmarke": "_Toc_MM_053",
+          "koffer": []
+        },
+        {
+          "id": "057-kausalsaetze-im-chinesischen",
+          "nr": 57,
+          "sortierung": 57,
+          "titel": "Kausalsätze im Chinesischen",
+          "themen": "HSK 2 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/57",
+          "textmarke": "_Toc_MM_054",
+          "koffer": []
+        },
+        {
+          "id": "058-konditionalsaetze-im-chinesischen",
+          "nr": 58,
+          "sortierung": 58,
+          "titel": "Konditionalsätze im Chinesischen",
+          "themen": "HSK 2 · 3 · 4 · 5",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/58",
+          "textmarke": "_Toc_MM_055",
+          "koffer": []
+        },
+        {
+          "id": "059-die-strukturen-zhiyao-jiu-und-zhiyou",
+          "nr": 59,
+          "sortierung": 59,
+          "titel": "Die Strukturen „[[zhǐyào ..., jiù ...]]“ und „[[zhǐyǒu ..., cái ...]]“",
+          "themen": "HSK 2 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/59",
+          "textmarke": "_Toc_MM_056",
+          "koffer": []
+        },
+        {
+          "id": "060-konzessivsaetze-im-chinesischen",
+          "nr": 60,
+          "sortierung": 60,
+          "titel": "Konzessivsätze im Chinesischen",
+          "themen": "HSK 2 · 5 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/60",
+          "textmarke": "_Toc_MM_058",
+          "koffer": []
+        },
+        {
+          "id": "061-der-begriff-yihou-zhihou-hou",
+          "nr": 61,
+          "sortierung": 61,
+          "titel": "Der Begriff „[[yǐhòu/zhīhòu/hòu]]“",
+          "themen": "HSK 2 · 3 · 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/61",
+          "textmarke": "_Toc_MM_059",
+          "koffer": []
+        },
+        {
+          "id": "062-der-begriff-yiqian-zhiqian",
+          "nr": 62,
+          "sortierung": 62,
+          "titel": "Der Begriff „[[yǐqián/zhīqián]]“",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/62",
+          "textmarke": "_Toc_MM_060",
+          "koffer": []
+        },
+        {
+          "id": "063-die-konstruktion-shi-de",
+          "nr": 63,
+          "sortierung": 63,
+          "titel": "Die Konstruktion „[[shì ... de]]“",
+          "themen": "HSK 2 · 3 · 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/63",
+          "textmarke": "_Toc_MM_062",
+          "koffer": []
+        },
+        {
+          "id": "064-die-strukturformel-um-auszudruecken-dass-man",
+          "nr": 64,
+          "sortierung": 64,
+          "titel": "Die Strukturformel um auszudrücken, dass man mit einem Verkehrsmittel an einen Ort fährt, geht, fliegt, etc.",
+          "themen": "HSK 2 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/64",
+          "textmarke": "_Toc_MM_063",
+          "koffer": []
+        },
+        {
+          "id": "065-die-frage-nach-der-wegrichtung-um",
+          "nr": 65,
+          "sortierung": 65,
+          "titel": "Die Frage nach der Wegrichtung um an einen Ort zu gelangen",
+          "themen": "HSK 2 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/65",
+          "textmarke": "_Toc_MM_064",
+          "koffer": []
+        },
+        {
+          "id": "066-entfernungen-angeben-mit-li",
+          "nr": 66,
+          "sortierung": 66,
+          "titel": "Entfernungen angeben mit „[[lí]]“",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/66",
+          "textmarke": "_Toc_MM_065",
+          "koffer": []
+        },
+        {
+          "id": "067-die-zwei-woerter-yidian-r-und",
+          "nr": 67,
+          "sortierung": 67,
+          "titel": "Die zwei Wörter yīdiǎn(r) und yǒuyīdiǎn(r)",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/67",
+          "textmarke": "_Toc_MM_068",
+          "koffer": []
+        },
+        {
+          "id": "068-das-komplement-des-resultats-ergebniskomplement",
+          "nr": 68,
+          "sortierung": 68,
+          "titel": "Das Komplement des Resultats (Ergebniskomplement)",
+          "themen": "HSK 2 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/68",
+          "textmarke": "_Toc_MM_073",
+          "koffer": []
+        },
+        {
+          "id": "069-das-komplement-der-richtung-richtungskomplement",
+          "nr": 69,
+          "sortierung": 69,
+          "titel": "Das Komplement der Richtung (Richtungskomplement)",
+          "themen": "HSK 2 · 3 · 4 · 5 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/69",
+          "textmarke": "_Toc_MM_074",
+          "koffer": []
+        },
+        {
+          "id": "070-beschreiben-wie-eine-handlung-ausgefuehrt-wird",
+          "nr": 70,
+          "sortierung": 70,
+          "titel": "Beschreiben wie eine Handlung ausgeführt wird (Er spricht schnell)",
+          "themen": "HSK 2 · 5",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/70",
+          "textmarke": "_Toc_MM_075",
+          "koffer": []
+        },
+        {
+          "id": "071-verbale-zaehleinheitswoerter-und-das-komplement-der",
+          "nr": 71,
+          "sortierung": 71,
+          "titel": "Verbale Zähleinheitswörter und das Komplement der Häufigkeit",
+          "themen": "HSK 2 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/71",
+          "textmarke": "_Toc_MM_077",
+          "koffer": []
+        },
+        {
+          "id": "072-vergleichen-i-ausdruecken-dass-zwei-nomen",
+          "nr": 72,
+          "sortierung": 72,
+          "titel": "Vergleichen I: Ausdrücken, dass zwei Nomen/Nominalphrasen gleich oder nicht gleich sind (Diese Antwort und jene Antwort sind gleich. Die Fächer, die er mag und die Fächer, die sie mag, sind gleich.)",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/72",
+          "textmarke": "_Toc_MM_078",
+          "koffer": []
+        },
+        {
+          "id": "073-vergleichen-ii-ausdruecken-dass-zwei-nomen",
+          "nr": 73,
+          "sortierung": 73,
+          "titel": "Vergleichen II: Ausdrücken, dass zwei Nomen in Bezug auf eine Eigenschaft gleich oder nicht gleich sind (Diese Antwort und jene Antwort sind gleich gut.)",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/73",
+          "textmarke": "_Toc_MM_079",
+          "koffer": []
+        },
+        {
+          "id": "074-zeitdauerangaben",
+          "nr": 74,
+          "sortierung": 74,
+          "titel": "Zeitdauerangaben",
+          "themen": "HSK 2 · 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/74",
+          "textmarke": "_Toc_MM_082",
+          "koffer": []
+        },
+        {
+          "id": "075-die-woertchen-yi-xia-und-yihuir",
+          "nr": 75,
+          "sortierung": 75,
+          "titel": "Die Wörtchen „[[yī xià]]“ und „[[yīhuǐr]]“",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/75",
+          "textmarke": "_Toc_MM_084",
+          "koffer": []
+        },
+        {
+          "id": "076-die-konstruktion-nicht-nur-sondern-auch",
+          "nr": 76,
+          "sortierung": 76,
+          "titel": "Die Konstruktion „[[... nicht nur ..., sondern auch ...]]“",
+          "themen": "HSK 2 · 3 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/76",
+          "textmarke": "_Toc_MM_085",
+          "koffer": []
+        },
+        {
+          "id": "077-die-woertchen-cai-erst-erst-dann",
+          "nr": 77,
+          "sortierung": 77,
+          "titel": "Die Wörtchen „[[cái]]“ – erst/erst dann und „[[jiù]]“ – bereits/schon",
+          "themen": "HSK 2 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/77",
+          "textmarke": "_Toc_MM_087",
+          "koffer": []
+        },
+        {
+          "id": "078-die-konstruktion-yi-jiu",
+          "nr": 78,
+          "sortierung": 78,
+          "titel": "Die Konstruktion „[[... yī ..., jiù ...]]“",
+          "themen": "HSK 2 · 3 · 4 · 5 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/78",
+          "textmarke": "_Toc_MM_088",
+          "koffer": []
+        },
+        {
+          "id": "079-ungefaehre-angaben-duo-ji-zuoyou-dayue",
+          "nr": 79,
+          "sortierung": 79,
+          "titel": "Ungefähre Angaben: „[[duō]]“, „[[jǐ]]“, „[[zuǒyòu]]“, „[[dàyuē]]“, „[[chàbuduō]]“",
+          "themen": "HSK 2 · 3 · 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/79",
+          "textmarke": "_Toc_MM_090",
+          "koffer": []
+        },
+        {
+          "id": "080-das-woertchen-guo-zur-angabe-von",
+          "nr": 80,
+          "sortierung": 80,
+          "titel": "Das Wörtchen „[[guò]]“ zur Angabe von gemachter Erfahrung",
+          "themen": "HSK 2",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/80",
+          "textmarke": "_Toc_MM_094",
+          "verweise": [
+            {
+              "titel": "[[le]] {{了}} und [[guò]] {{过}}",
+              "url": "https://smartuptake.github.io/mandarin-maverick-uebungssammlung-kursverlaeufe/jg-11/kv-006/01-le-guo/",
+              "beschreibung": "Übungskoffer aus dem Kursverlauf-006 (Jahrgangsstufe 11)",
+              "anzahl": 15,
+              "dauer": "ca. 45–60 Minuten",
+              "quelle": "Übungssammlung Kursverläufe"
+            }
+          ],
+          "koffer": []
+        },
+        {
+          "id": "081-die-wendungen-duiyu-guanyu-und-dui",
+          "nr": 81,
+          "sortierung": 81,
+          "titel": "Die Wendungen „[[duìyú ...]]“, „[[guānyú ...]]“ und „[[duì ... lái shuō]]“",
+          "themen": "HSK 2 · 3 · 4 · 5",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/81",
+          "textmarke": "_Toc_MM_102",
+          "koffer": []
+        }
+      ]
+    },
+    {
+      "id": "hsk-3",
+      "titel": "HSK 3",
+      "untertitel": "Grammatikstrukturen ab HSK-Stufe 3",
+      "gruppen": [
+        {
+          "id": "083-die-struktur-yi-fangmian-ling-yi",
+          "nr": 83,
+          "sortierung": 83,
+          "titel": "Die Struktur „[[yī fāngmiàn... lìng yī fāngmiàn...]]“",
+          "themen": "HSK 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/83",
+          "textmarke": "_Toc_MM_042",
+          "koffer": []
+        },
+        {
+          "id": "084-die-ba-konstruktion",
+          "nr": 84,
+          "sortierung": 84,
+          "titel": "Die „[[bǎ]]“-Konstruktion",
+          "themen": "HSK 3 · 4 · 5 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/84",
+          "textmarke": "_Toc_MM_069",
+          "koffer": []
+        },
+        {
+          "id": "085-das-passiv",
+          "nr": 85,
+          "sortierung": 85,
+          "titel": "Das Passiv",
+          "themen": "HSK 3 · 4 · 5 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/85",
+          "textmarke": "_Toc_MM_070",
+          "koffer": []
+        },
+        {
+          "id": "086-saetze-mit-zwei-verben-rang-jiao",
+          "nr": 86,
+          "sortierung": 86,
+          "titel": "Sätze mit zwei Verben: „[[ràng]]“, „[[jiào]]“, „[[qǐng]]“, „[[shǐ]]“",
+          "themen": "HSK 3 · 4 · 5",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/86",
+          "textmarke": "_Toc_MM_071",
+          "koffer": []
+        },
+        {
+          "id": "087-das-komplement-der-moeglichkeit-potentialis",
+          "nr": 87,
+          "sortierung": 87,
+          "titel": "Das Komplement der Möglichkeit (Potentialis)",
+          "themen": "HSK 3 · 4 · 5",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/87",
+          "textmarke": "_Toc_MM_076",
+          "koffer": []
+        },
+        {
+          "id": "088-trennbare-verben-liheci",
+          "nr": 88,
+          "sortierung": 88,
+          "titel": "Trennbare Verben („[[líhécí]]“)",
+          "themen": "HSK 3",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/88",
+          "textmarke": "_Toc_MM_081",
+          "koffer": []
+        },
+        {
+          "id": "089-die-konstruktion-chule-yiwai",
+          "nr": 89,
+          "sortierung": 89,
+          "titel": "Die Konstruktion „[[... chúle ..., yǐwài ...]]“",
+          "themen": "HSK 3 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/89",
+          "textmarke": "_Toc_MM_086",
+          "koffer": []
+        },
+        {
+          "id": "090-rhetorische-fragen-nandao-ma-und-bu",
+          "nr": 90,
+          "sortierung": 90,
+          "titel": "Rhetorische Fragen: „[[nándào ... ma?]]“ und „[[bù shì ... ma?]]“",
+          "themen": "HSK 3 · 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/90",
+          "textmarke": "_Toc_MM_099",
+          "koffer": []
+        },
+        {
+          "id": "091-kombination-von-fragewort-dou-oder-ye",
+          "nr": 91,
+          "sortierung": 91,
+          "titel": "Kombination von Fragewort + „[[dōu]]“ oder „[[yě]]“ bzw. „[[dōu bù]]“ oder „[[yě bù]]“",
+          "themen": "HSK 3 · 5",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/91",
+          "textmarke": "_Toc_MM_104",
+          "koffer": []
+        }
+      ]
+    },
+    {
+      "id": "hsk-4",
+      "titel": "HSK 4",
+      "untertitel": "Grammatikstrukturen ab HSK-Stufe 4",
+      "gruppen": [
+        {
+          "id": "093-die-struktur-erstens-zweitens-drittens-viertens",
+          "nr": 93,
+          "sortierung": 93,
+          "titel": "Die Struktur „Erstens..., zweitens..., drittens..., viertens..., fünftens...“",
+          "themen": "HSK 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/93",
+          "textmarke": "_Toc_MM_051",
+          "koffer": []
+        },
+        {
+          "id": "094-die-struktur-buguan-wulun-dou-ye",
+          "nr": 94,
+          "sortierung": 94,
+          "titel": "Die Struktur „[[bùguǎn/wúlùn ..., dōu/yě ...]]“",
+          "themen": "HSK 4 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/94",
+          "textmarke": "_Toc_MM_057",
+          "koffer": []
+        },
+        {
+          "id": "095-die-woertchen-lian-ye-dou",
+          "nr": 95,
+          "sortierung": 95,
+          "titel": "Die Wörtchen „[[lián ... yě/dōu ...]]“",
+          "themen": "HSK 4 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/95",
+          "textmarke": "_Toc_MM_089",
+          "koffer": []
+        },
+        {
+          "id": "096-angabe-von-anteilen-bruechen",
+          "nr": 96,
+          "sortierung": 96,
+          "titel": "Angabe von Anteilen/Brüchen",
+          "themen": "HSK 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/96",
+          "textmarke": "_Toc_MM_091",
+          "koffer": []
+        },
+        {
+          "id": "097-prozentangaben-vielfache-und-die-haelfte",
+          "nr": 97,
+          "sortierung": 97,
+          "titel": "Prozentangaben, Vielfache und „die Hälfte“",
+          "themen": "HSK 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/97",
+          "textmarke": "_Toc_MM_092",
+          "koffer": []
+        },
+        {
+          "id": "098-die-strukturen-jiushi-ye-hai-jiusuan",
+          "nr": 98,
+          "sortierung": 98,
+          "titel": "Die Strukturen „[[jiùshì ..., yě/hái ...]]“ / „[[jiùsuàn (shì) ..., yě/hái ...]]“",
+          "themen": "HSK 4 · 5 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/98",
+          "textmarke": "_Toc_MM_095",
+          "koffer": []
+        },
+        {
+          "id": "099-die-struktur-jiran-jiu",
+          "nr": 99,
+          "sortierung": 99,
+          "titel": "Die Struktur „[[jìrán ..., jiù ...]]“",
+          "themen": "HSK 4",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/99",
+          "textmarke": "_Toc_MM_100",
+          "koffer": []
+        },
+        {
+          "id": "100-die-woertchen-fouze-yaoburan-buran",
+          "nr": 100,
+          "sortierung": 100,
+          "titel": "Die Wörtchen „fǒuzé, yàobùrán, „bùrán“",
+          "themen": "HSK 4 · 5 · 6",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/100",
+          "textmarke": "_Toc_MM_103",
+          "koffer": []
+        }
+      ]
+    },
+    {
+      "id": "hsk-5",
+      "titel": "HSK 5",
+      "untertitel": "Grammatikstrukturen ab HSK-Stufe 5",
+      "gruppen": [
+        {
+          "id": "101-die-strukturen-mit-chufei",
+          "nr": 101,
+          "sortierung": 101,
+          "titel": "Die Strukturen mit „[[chúfēi]]“",
+          "themen": "HSK 5",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/101",
+          "textmarke": "_Toc_MM_096",
+          "koffer": []
+        }
+      ]
+    },
+    {
+      "id": "ergaenzend",
+      "titel": "Ergänzender Stoff",
+      "untertitel": "kein eigener HSK-Grammatikpunkt",
+      "gruppen": [
+        {
+          "id": "082-die-woertchen-weiyi",
+          "nr": 82,
+          "sortierung": 82,
+          "titel": "Die Wörtchen „[[wéiyī]]“",
+          "themen": "ergänzender Stoff",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/82",
+          "textmarke": "_Toc_MM_093",
+          "koffer": []
+        },
+        {
+          "id": "092-die-verben-yiwei-renwei-und-juede",
+          "nr": 92,
+          "sortierung": 92,
+          "titel": "Die Verben „[[yǐwéi]]“, „[[rènwéi]]“ und „[[juéde]]“ – dreimal „[[denken/meinen]]“",
+          "themen": "ergänzender Stoff",
+          "nachschlagen": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/#/kapitel/92",
+          "textmarke": "_Toc_MM_101",
+          "koffer": []
+        }
+      ]
+    }
+  ]
+}

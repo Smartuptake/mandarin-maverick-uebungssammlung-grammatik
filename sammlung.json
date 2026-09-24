@@ -1,0 +1,40 @@
+{
+  "titel": "Mandarin Maverick Übungssammlung · Grammatik",
+  "kurztitel": "Übungssammlung · Grammatik-Nachschlagewerk",
+  "ebene1": "HSK-Stufe",
+  "ebene2": "eine Grammatikstruktur",
+  "hinweisStart": "Die Übungen sind wie das Grammatik-Nachschlagewerk nach HSK-Stufen geordnet. Wähle eine Stufe.",
+  "nachschlagewerk": "https://smartuptake.github.io/chinesisch-grammatik-nachschlagewerk/",
+  "bereiche": [
+    {
+      "id": "hsk-1",
+      "titel": "HSK 1",
+      "untertitel": "Grammatikstrukturen ab HSK-Stufe 1"
+    },
+    {
+      "id": "hsk-2",
+      "titel": "HSK 2",
+      "untertitel": "Grammatikstrukturen ab HSK-Stufe 2"
+    },
+    {
+      "id": "hsk-3",
+      "titel": "HSK 3",
+      "untertitel": "Grammatikstrukturen ab HSK-Stufe 3"
+    },
+    {
+      "id": "hsk-4",
+      "titel": "HSK 4",
+      "untertitel": "Grammatikstrukturen ab HSK-Stufe 4"
+    },
+    {
+      "id": "hsk-5",
+      "titel": "HSK 5",
+      "untertitel": "Grammatikstrukturen ab HSK-Stufe 5"
+    },
+    {
+      "id": "ergaenzend",
+      "titel": "Ergänzender Stoff",
+      "untertitel": "kein eigener HSK-Grammatikpunkt"
+    }
+  ]
+}
